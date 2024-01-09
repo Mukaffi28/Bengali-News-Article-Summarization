@@ -6,7 +6,10 @@ This repository contains the implementation of a Bengali News Article Summarizat
     <li><strong>banglaT5:</strong> A dedicated Bengali transformer model designed for natural language processing tasks, including summarization.</li>
     <li><strong>mT5 (Multilingual Text-to-Text Transfer Transformer 5):</strong> A versatile multilingual transformer model capable of handling various NLP tasks, including summarization, across multiple languages.</li>
   </ol>
+    <h2>Dataset</h2>
 
+ <p>The model was trained on the <a href="https://www.kaggle.com/datasets/prithwirajsust/bengali-news-summarization-dataset">Bengali News Summarization Dataset</a> from Kaggle.</p>
+ 
   <h2>Evaluation Metrics</h2>
 
   <p>The performance of both summarization models is assessed using the following evaluation metrics:</p>
