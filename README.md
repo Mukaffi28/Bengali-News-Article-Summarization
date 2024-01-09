@@ -4,7 +4,7 @@ This repository contains the implementation of a Bengali News Article Summarizat
 
 <ol>
     <li><strong>banglaT5:</strong> A dedicated Bengali transformer model designed for natural language processing tasks, including summarization.</li>
-    <li><strong>mT5 (Multilingual Translation Transformer 5):</strong> A versatile multilingual transformer model capable of handling various NLP tasks, including summarization, across multiple languages.</li>
+    <li><strong>mT5 (Multilingual Text-to-Text Transfer Transformer 5):</strong> A versatile multilingual transformer model capable of handling various NLP tasks, including summarization, across multiple languages.</li>
   </ol>
 
   <h2>Evaluation Metrics</h2>
